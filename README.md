@@ -24,7 +24,7 @@ composer require stl30/laravel-mobilpay
 Publish package in your application
 
 ```bash
-php artisan vendor:publish --provider=Stl30\LaravelMobilpay\LaravelMobilpayServiceProvider
+php artisan vendor:publish 
 ```
 
 1.Complete package configuration file found in config/laravel-mobilpay.php
